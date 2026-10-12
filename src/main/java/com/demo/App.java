@@ -3,7 +3,7 @@ package com.demo;
 public class App {
 
     public String getMessage() {
-        return "Hello from Jenkins CI/CD!";
+        return "Hello from GitHub and Jenkins!";
     }
 
     public int add(int a, int b) {
